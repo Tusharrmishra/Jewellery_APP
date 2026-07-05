@@ -1,0 +1,11 @@
+
+  # Jewellery ERP Web Application
+
+  This is a code bundle for Jewellery ERP Web Application. The original project is available at https://www.figma.com/design/dUBVJBWOcFDVzniMEd8X5J/Jewellery-ERP-Web-Application.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
